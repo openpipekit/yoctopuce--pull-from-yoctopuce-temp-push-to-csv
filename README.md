@@ -10,7 +10,7 @@ From a Raspberry Pi, pull temperature data from a Yoctopuce temperature sensor, 
 3. Plugin the USB drive into your (Linux) Computer ...
 ```
 cd /media/usb-drive
-yeobot --repository http://github.com/openpipekit/yeobot--pull-from-yoctopuce-temp-push-to-csv
+yeobot --repository http://github.com/openpipekit/yeobot--pull-from-yoctopuce-temp-push-to-csv.git
 ```
 4. Smile
 5. Plug everything together and connect your Raspberry Pi to a power supply. 
